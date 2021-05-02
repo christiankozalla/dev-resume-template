@@ -1,7 +1,7 @@
 const { resolve } = require("path");
 
 module.exports = {
-  base: "/cv-template/",
+  base: "/dev-resume-template/",
   build: {
     rollupOptions: {
       input: {
