@@ -18,6 +18,8 @@ If you _"Include all branches"_ during the process, the template will already be
 
 Or you only copy the _main_ branch and deploy the project to GitHub Pages yourself.
 
+More information about template repositories on the [GitHub Docs](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template#creating-a-repository-from-a-template)
+
 ## Dev
 
 `package.json` provides three scripts for development, build, preview and deploy. The first three are associated with Vite. The script _deploy_ uses [push-dir](https://github.com/L33T-KR3W/push-dir) to push the `dist` directory to the `gh-pages` branch.
