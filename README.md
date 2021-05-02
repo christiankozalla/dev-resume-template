@@ -6,7 +6,7 @@
 
 - [TailwindCSS](https://tailwindcss.com) - A utility-first CSS framework
 - [Vite](https://vitejs.dev) - Next Generation of Frontend Tooling
-- [Ionicons](https://ionicons.com)
+- [Ionicons](https://ionicons.com) - Open source icons. Lovingly hand-crafted.
 
 ## Usage
 
