@@ -1,6 +1,6 @@
 # Developer's Resume Template
 
-**Made with ❤️ by [Chrisko](https://chrisko.io/)**
+**Made with ❤️ by [Chrisko](https://christiankozalla.com)**
 
 ...and
 
